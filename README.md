@@ -1,7 +1,7 @@
 # Home task for a company
 
 # Info
-The project contains UI tests for verify skill set on given web site.
+The project contains UI tests for verify skill set on the web site.
 
 # Setup
 1. Open the project in IDE
