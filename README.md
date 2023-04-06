@@ -5,7 +5,7 @@ The project contains UI tests for verify skill set on the web site.
 
 # Setup
 1. Open the project in IDE
-2. Install Maven https://gradle.org/install/
+2. Install Maven https://maven.apache.org/install.html
 3. Open pom.xml and reload all Maven projects
 
 # Run tests
